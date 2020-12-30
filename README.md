@@ -1,13 +1,12 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ...
-  - Personal Website (joseph-x-li.github.io)
-  - Alphabet Typing Tool (py-alphabet-texter)
-  - PGB
-  - CEA
+  - pystreaming
   - OFT
-  - DFP
+  - PGB
 - 🌱 I’m currently learning ...
-  - Python
+  - A lot
+- Favorite Emoji ...
+  - 🗿
 
 <!--
 **joseph-x-li/joseph-x-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
