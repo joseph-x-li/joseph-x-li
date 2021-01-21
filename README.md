@@ -2,9 +2,10 @@
 - 🔭 I’m currently working on ...
   - pystreaming
   - OFT
+  - MML
   - PGB
 - 🌱 I’m currently learning ...
-  - A lot
+  - C++
 - Favorite Emoji ...
   - 🗿
 
