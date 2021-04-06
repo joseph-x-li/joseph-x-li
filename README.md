@@ -10,7 +10,7 @@
   - 🗿
 
 
-![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamiyaa)
+![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-x-li)
 
 <!--
 **joseph-x-li/joseph-x-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
