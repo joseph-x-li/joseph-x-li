@@ -1,9 +1,10 @@
 ### Hi there 👋
 - 🌱 I’m currently learning ...
+  - Rust
   - Python
   - C
   - C++
-  - Rust
+
 
 - Favorite Emoji ...
   - 🗿
