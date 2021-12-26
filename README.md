@@ -10,7 +10,7 @@
   - 🗿
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-x-li&exclude_repo=joseph-x-li.github.io,lux,ray&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-x-li&exclude_repo=joseph-x-li.github.io,lux,ray,old_website&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **joseph-x-li/joseph-x-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
