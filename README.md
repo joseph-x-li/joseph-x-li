@@ -6,10 +6,6 @@
   - C++
 
 
-- Favorite Emoji ...
-  - 🗿
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-x-li&exclude_repo=joseph-x-li.github.io,lux,ray,old_website&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
